@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4cb58e15-fbb7-4dc3-9899-7e0d138667b0": {
+      "ProjectGuid": "4cb58e15-fbb7-4dc3-9899-7e0d138667b0",
+      "DisplayName": "Servicios",
+      "ColorIndex": 0
+    },
+    "4cfb0000-c8f9-461e-bdc9-4937d8586917": {
+      "ProjectGuid": "4cfb0000-c8f9-461e-bdc9-4937d8586917",
+      "DisplayName": "TestSegurarse",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
